@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey there, I’m Sushma 👋
 
-<!--
-**SushmaVaradaiah-PP/SushmaVaradaiah-PP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Full-Stack Developer → Zero-Knowledge Developer  
+Currently immersed in the ZK world - where math meets magic ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💙 What I'm into right now
+- ✏️ Writing & testing zero-knowledge circuits with Circom  
+- 🧪 Exploring Groth16 and zk-SNARKs  
+- 🔐 Building privacy-first systems  
+- 🧠 Learning to break (and fix) proofs  
+- 🦀 New to Rust - but on a mission to master it  
+
+---
+
+## 🔗 Let's connect  
+📍 [LinkedIn](https://www.linkedin.com/in/sushma-v/)  
+📝 [Medium](https://sushmarajuvaradaiah.medium.com/)
