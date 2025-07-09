@@ -12,8 +12,3 @@ Currently immersed in the ZK world - where math meets magic ✨
 - 🧠 Learning to break (and fix) proofs  
 - 🦀 New to Rust - but on a mission to master it  
 
----
-
-## 🔗 Let's connect  
-📍 [LinkedIn](https://www.linkedin.com/in/sushma-v/)  
-📝 [Medium](https://sushmarajuvaradaiah.medium.com/)
