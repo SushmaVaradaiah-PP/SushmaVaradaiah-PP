@@ -1,14 +1,14 @@
-# Hey there, I’m Sushma 👋
+Hey there, I’m Sushma 👋  
+👩‍💻 Full-Stack Developer → Zero-Knowledge Engineer  
 
-👩‍💻 Full-Stack Developer → Zero-Knowledge Developer  
-Currently immersed in the ZK world - where math meets magic ✨
+Deeply immersed in the Zero-Knowledge world — where cryptography, math, and systems engineering meet ✨  
 
----
+💙 What I’m focused on right now  
+✏️ Designing, writing, and testing zero-knowledge circuits with Circom  
+🧪 Working hands-on with Groth16 and zk-SNARKs  
+🔐 Building privacy-first blockchain systems  
+🧠 Auditing, breaking, and fixing ZK proofs  
+🦀 Writing production-grade Rust while mastering ownership, lifetimes, concurrency, and async fundamentals  
 
-## 💙 What I'm into right now
-- ✏️ Writing & testing zero-knowledge circuits with Circom  
-- 🧪 Exploring Groth16 and zk-SNARKs  
-- 🔐 Building privacy-first systems  
-- 🧠 Learning to break (and fix) proofs  
-- 🦀 New to Rust - but on a mission to master it  
+📌 Currently strengthening Rust for ZK, cryptography tooling, and backend systems
 
